@@ -1,8 +1,6 @@
-package algorithm;
-
 import java.util.Scanner;
 
-public class Baekjoon1330 {
+public class Main {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
